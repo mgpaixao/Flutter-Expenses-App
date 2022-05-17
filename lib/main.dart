@@ -1,6 +1,3 @@
-import 'dart:ui';
-
-import 'package:expenses/components/transaction_list.dart';
 import 'package:expenses/components/transaction_user.dart';
 import 'package:flutter/material.dart';
 import 'components/transaction_form.dart';
